@@ -4,6 +4,7 @@
   "description": "📢 How to set up a decent development workflow from scratch using Webpack and TypeScript.",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
